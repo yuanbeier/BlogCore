@@ -3,3 +3,12 @@
 ################################################################################
 
 *.dll
+*.pdb
+/Blog.Core/obj/Debug/netcoreapp2.1
+/Blog.Core/obj/Release/netcoreapp2.1
+/Blog.Core/obj
+/.vs/Blog.Core/v15
+/Blog.Core/bin/Debug/netcoreapp2.1
+/Blog.Core.Model/bin/Debug/netcoreapp2.1
+/Blog.Core.Model/obj/Debug/netcoreapp2.1
+/Blog.Core.Model/obj
